@@ -1,6 +1,6 @@
 <h1 align="center">Анастасия Калинина</h1>
 <p align="center"><b>Data Scientist / ML Engineer</b></p>
-<p align="center">(^_^)</p>
+<p align="center">А это ошибка или точка роста? </p>
 
 ---
 
