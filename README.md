@@ -1,6 +1,6 @@
 <h1 align="center">Анастасия Калинина</h1>
 <p align="center"><b>Data Scientist / ML Engineer</b></p>
-<p align="center">Агенты, RAG и классический ML — от эксперимента до сервиса с измеримым эффектом.</p>
+<p align="center">(^_^)</p>
 
 ---
 
@@ -20,7 +20,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 </p>
 <p>
   <img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
@@ -28,8 +27,6 @@
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
   <img alt="Agents" src="https://img.shields.io/badge/Agents-6C63FF?style=flat-square">
 </p>
-
-Классический ML: градиентный бустинг, классификация, регрессия, поиск аномалий, временные ряды, RNN, CNN.
 
 ---
 
@@ -42,10 +39,6 @@ PRAUC с 0,75 до 0,836 на целевом тесте, доля ложных �
 **Прогноз загрузки трамвайных маршрутов** · победитель хакатона МосТрансПорт  
 Прогнозная модель с WAPE-score 0,90 и веб-сервис на 2300–2700 запросов/с (p95 17–63 мс), плюс бот-ассистент диспетчера.  
 [Репозиторий](https://github.com/Saykra1/MetroHack2026)
-
-**Mood Tracker**  
-Дневник эмоций: текст записи разбирается на доминирующую эмоцию и интенсивность, история хранится в SQLite, статистика рисуется на графиках. Backend на FastAPI.  
-[Репозиторий](https://github.com/uwuICQ/Mood_tracker_LLM)
 
 **Экономическое прогнозирование в ЕАЭС** · победитель XII Евразийской олимпиады по аналитической экономике и прогнозированию  
 Сетевой анализ торговли, многокритериальное взвешивание и прогнозные модели интеграции союза.  
@@ -79,6 +72,6 @@ PRAUC с 0,75 до 0,836 на целевом тесте, доля ложных �
 - Яндекс Лицей: ML и CV
 - Agents Week, Школа анализа данных
 - AI Agents Security Week, Школа анализа данных
-- «Школа аналитиков-разработчиков», Яндекс
+- Яндекс «Школа аналитиков-разработчиков»
 
 </details>
